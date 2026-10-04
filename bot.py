@@ -3,7 +3,7 @@ import asyncio
 from datetime import datetime
 
 # ==================== 설정 ====================
-TOKEN = "MTU1NTk5MDEzODg4OTMxNDUzNA.GiwouS.stb9fD7G5VQCReeDCyuaBAdXu9fxylk3rC799c"
+TOKEN = "MTU1NTk5MDEzODg4OTMxNDUzNA.GBVP2u.3wQ0k0wV5HwRdt6qIx9xpVxx9jm66AnicCwViU"
 GUILD_ID = 1555975655299096696
 TICKET_CATEGORY_ID = 1556170259990319104
 STAFF_ROLE_ID = 1555980528367312968
